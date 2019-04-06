@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\erkngr\documents\visual studio 2015\projects\tiyatronyp\tiyatronyp\salon.h(33): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\erkngr\documents\visual studio 2015\projects\tiyatronyp\tiyatronyp\oyun.h(30): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\erkngr\documents\visual studio 2015\projects\tiyatronyp\tiyatronyp\main.cpp(143): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  TiyatroNYP.vcxproj -> c:\users\erkngr\documents\visual studio 2015\Projects\TiyatroNYP\Debug\TiyatroNYP.exe
+  TiyatroNYP.vcxproj -> c:\users\erkngr\documents\visual studio 2015\Projects\TiyatroNYP\Debug\TiyatroNYP.pdb (Full PDB)
